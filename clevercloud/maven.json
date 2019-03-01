@@ -4,6 +4,6 @@
     "goal": "install  -DskipTests"
   },
   "deploy": {
-    "jarName": "target/artifactId-version.jar"
+    "jarName": "target/artifactId-4.0.0.jar"
   }
 }
