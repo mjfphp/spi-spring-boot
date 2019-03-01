@@ -148,7 +148,7 @@
                         <version>1.2.0.Final</version>
                     </path>
                 </annotationProcessorPaths>
-                <mainClass>fr.dosi.Application</mainClass>
+                <mainClass>projet.spi.Application</mainClass>
             </configuration>
             <executions>
             </executions>
