@@ -15,7 +15,7 @@
 	<description>Projet en mode agile avec Spring Boot</description>
 
 	<properties>
- 	    <start-class>dosi.mainApp.Application</start-class>
+ 	    <start-class>projet.spi.Application</start-class>
 
 		<java.version>1.8</java.version>
 	</properties>
